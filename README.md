@@ -14,6 +14,15 @@ Streaming platform that can be controlled using eye and hand gestures detection 
 
 ## Live Demo
 
+[https://thegfmachado.github.io/handflix](https://thegfmachado.github.io/handflix)
+
+---
+**NOTE**
+
+The browser should have the hardware acceleration flag on to the demo work as expected
+
+---
+
 ## Pre-reqs
 
 - NodeJS v19.6.x
