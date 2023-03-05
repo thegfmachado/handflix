@@ -3,7 +3,16 @@
 Streaming platform that can be controlled using eye and hand gestures detection 👁🖐
 
 ## Preview
-<video width="100%" src="./assets/demo.mkv"></video>
+
+- Hands controls
+
+![Hands gestures](./assets/hands-demo.gif)
+
+- Eye blink play/pause
+  
+![Blink control](./assets/blink-demo.gif)
+
+## Live Demo
 
 ## Pre-reqs
 
